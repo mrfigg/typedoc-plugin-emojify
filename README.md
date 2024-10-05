@@ -4,7 +4,7 @@ A plugin for TypeDoc that adds emoji parsing support.
 
 ## Example
 
-[https://mrfigg.github.io/typedoc-plugin-emojify](https://mrfigg.github.io/typedoc-plugin-emojify).
+A basic example is available at [https://mrfigg.github.io/typedoc-plugin-emojify](https://mrfigg.github.io/typedoc-plugin-emojify).
 
 ## Installation
 
