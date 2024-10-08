@@ -4,13 +4,13 @@
   "description": "A plugin for TypeDoc that adds emoji parsing support",
   "author": "MrFigg",
   "license": "MIT",
-  "homepage": "https://github.com/mrfigg/typedoc-plugin-emoji#readme",
+  "homepage": "https://github.com/mrfigg/typedoc-plugin-emojify#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfigg/typedoc-plugin-emoji.git"
+    "url": "git+https://github.com/mrfigg/typedoc-plugin-emojify.git"
   },
   "bugs": {
-    "url": "https://github.com/mrfigg/typedoc-plugin-emoji/issues"
+    "url": "https://github.com/mrfigg/typedoc-plugin-emojify/issues"
   },
   "keywords": [
     "typedoc",
